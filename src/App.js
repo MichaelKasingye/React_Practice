@@ -43,9 +43,7 @@ class App extends Component {
       <div className="App">
       <h1>Hello this is a react app</h1>
       {/* <Person name = "Mike" age = "29"/>
-      <Person name = "Mark" age = "2 ">
-        My hobbies: Racing
-      </Person>
+      <Person name = "Mark" age = "2 ">My hobbies: Racing</Person>
       <Person name = "Jane" age = "25"/>  */}
       <button
       style = {style}
